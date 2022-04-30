@@ -1,0 +1,4 @@
+C:\Users\s ve j\Desktop\intProgramcılığı\api\WebAPI\sorucevapportalı\obj\Debug\sorucevapportali.csproj.AssemblyReference.cache
+C:\Users\s ve j\Desktop\intProgramcılığı\api\WebAPI\sorucevapportalı\obj\Debug\sorucevapportali.csproj.CoreCompileInputs.cache
+C:\Users\s ve j\Desktop\intProgramcılığı\api\WebAPI\sorucevapportalı\obj\Debug\sorucevapportalı.dll
+C:\Users\s ve j\Desktop\intProgramcılığı\api\WebAPI\sorucevapportalı\obj\Debug\sorucevapportalı.pdb
